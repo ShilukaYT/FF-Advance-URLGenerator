@@ -1,1 +1,2 @@
 # FF-Advance-URLGenerator
+This is a tool that helps us download FF test server version early without having to wait until the official download opening date (Usually the game files will be available on the server about 1-2 days before the official download opening).
