@@ -18,6 +18,6 @@ Step 4: Enter the game version number and press Enter (You can find this on the 
 All that's left is to wait, after it finishes downloading the application will automatically exit
 
 
-Made bt Hieu GL Lite
+Made by Hieu GL Lite
 
 Website: https://sites.google.com/view/hieugllite
